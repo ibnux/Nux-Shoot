@@ -1,0 +1,10 @@
+MIDlet-Name: Nux Shoot 2
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: ibnux.net
+MIDlet-Description: delayed camera shutter
+MIDlet-Jar-URL: Nux Shoot 2.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Nux Shoot 2,,
+RIM-MIDlet-Flags-1: 3

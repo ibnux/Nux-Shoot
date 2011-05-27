@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: Nux_Shoot_2
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_menuitem,net_rim_os
+MIDlet-Jar-Size: 8641
+MIDlet-1: Nux Shoot 2,,
+RIM-COD-Creation-Time: 1296794561
+MIDlet-Jar-URL: Nux Shoot 2.jar
+RIM-COD-URL: Nux_Shoot_2.cod
+RIM-COD-SHA1: 0e 38 a2 bb f4 01 8a 5c 1d c2 83 e8 0e 3c f5 d8 48 d3 83 e8
+RIM-COD-Size: 3492
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: Nux Shoot 2
+MIDlet-Description: delayed camera shutter
+MIDlet-Vendor: ibnux.net
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 3

@@ -1,0 +1,41 @@
+<loader version="1.0">
+	<application id="Nux_Shoot_2">
+		<name >
+			Nux Shoot 2
+		</name>
+		<description >
+			delayed camera shutter
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			ibnux.net
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 ibnux.net
+		</copyright>
+		<fileset Java="1.49" _blackberryVersion="[4.5.0,4.5.1)">
+			<directory >
+				4.5.0
+			</directory>
+			<files >
+				Nux_Shoot_2.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.49" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Nux_Shoot_2.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
